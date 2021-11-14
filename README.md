@@ -128,7 +128,7 @@ Em cada pasta você poderá ver o que aprendi naquela módulo, bem como seus pro
 
 [Desafio 01 - Otimizando a aplicação](https://github.com/Vince-html/Projetos-Curso-Ignite/tree/master/01-Ignite-Capitulo-I/01-desafio-2-capitulo-I)
 
-[Testes de Aplicação - Upload de imagens](https://github.com/Vince-html/Projetos-Curso-Ignite/tree/master/03-Ignite-Capitulo-III/01-IgNews)
+[Testes de Aplicação](https://github.com/Vince-html/Projetos-Curso-Ignite/tree/master/03-Ignite-Capitulo-III/01-IgNews)
 
 
 <br><br>
