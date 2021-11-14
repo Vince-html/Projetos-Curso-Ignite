@@ -23,7 +23,7 @@ Em cada pasta você poderá ver o que aprendi naquela módulo, bem como seus pro
 <br>
 <br>
 
-[![logo](https://github.com/Vince-html/Projetos-Curso-Ignite/blob/master/02-Ignite-Capitulo-II/01-dtMoney/src/assets/logo.svg)](https://github.com/Vince-html/Projetos-Curso-Ignite/tree/master/02-Ignite-Capitulo-II/01-dtMoney)
+[![logo](https://github.com/Vince-html/Projetos-Curso-Ignite/blob/master/02-Ignite-Capitulo-II/01-dtMoney/src/assets/logo.svg)](https://github.com/Vince-html/Projetos-Curso-Ignite/tree/master/03-Ignite-Capitulo-III/01-IgNews)
 
 <br><br>
 
@@ -38,7 +38,7 @@ Em cada pasta você poderá ver o que aprendi naquela módulo, bem como seus pro
 ## 4️⃣ DashGo.
 <br><br>
 
-[![logo](https://github.com/Vince-html/Projetos-Curso-Ignite/blob/master/assets/Logos/dashgo.png)](https://github.com/Vince-html/Projetos-Curso-Ignite/tree/master/01-Ignite-Capitulo-I/01-github-explorer)
+[![logo](https://github.com/Vince-html/Projetos-Curso-Ignite/blob/master/assets/Logos/dashgo.png)](https://github.com/Vince-html/Projetos-Curso-Ignite/tree/master/04-Ignite-Capitulo-IV/01-DashGo)
 
 <br><br>
 
@@ -46,7 +46,7 @@ Em cada pasta você poderá ver o que aprendi naquela módulo, bem como seus pro
 
 <br><br>
 
-[![logo](https://github.com/Vince-html/Projetos-Curso-Ignite/blob/master/assets/Logos/iconReact.png)](https://github.com/Vince-html/Projetos-Curso-Ignite/tree/master/01-Ignite-Capitulo-I/01-github-explorer)
+[![logo](https://github.com/Vince-html/Projetos-Curso-Ignite/blob/master/assets/Logos/iconReact.png)](https://github.com/Vince-html/Projetos-Curso-Ignite/tree/master/05-Ignite-Capitulo-V/01-Performance-React)
 
 <br>
 <br>
