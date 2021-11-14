@@ -12,7 +12,7 @@ Pasta com todos os projetos e desafios desenvolvidos durante o curso de React da
 
 <br>
 
-[![logo](.\assets\Logos\github.svg)](https://github.com/Vince-html/Projetos-Curso-Ignite/tree/master/01-Ignite-Capitulo-I/01-github-explorer)
+[![logo](https://github.com/Vince-html/Projetos-Curso-Ignite/blob/master/assets/Logos/github.svg)](https://github.com/Vince-html/Projetos-Curso-Ignite/tree/master/01-Ignite-Capitulo-I/01-github-explorer)
 
 </div>
 
