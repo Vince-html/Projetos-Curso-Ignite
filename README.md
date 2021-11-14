@@ -1,4 +1,4 @@
-<p style='display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 0 auto; margin-top: 1rem;'>
+<div style='display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 0 auto; margin-top: 1rem;'>
 
 # Projetos Curso ReactJs Ignite
 
@@ -64,6 +64,4 @@ Pasta com todos os projetos e desafios desenvolvidos durante o curso de React da
 
 
 
-</p>
-
-
+</div>
