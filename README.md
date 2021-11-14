@@ -4,9 +4,9 @@
 
 Pasta com todos os projetos e desafios desenvolvidos durante o curso de React da @RocketSeat 🚀
 
-<div style='width: 100%; height: 2px; background-color: #6c11b8; margin: 1rem auto;'></div>
+<p style='width: 100%; height: 2px; background-color: #6c11b8; margin: 1rem auto;'></p>
 
-<div style='margin-top: 2rem;'>
+<p style='margin-top: 2rem;'>
 
 ## 1️⃣ GitHub explorer
 
@@ -14,7 +14,7 @@ Pasta com todos os projetos e desafios desenvolvidos durante o curso de React da
 
 [![logo](https://github.com/Vince-html/Projetos-Curso-Ignite/blob/master/assets/Logos/github.svg)](https://github.com/Vince-html/Projetos-Curso-Ignite/tree/master/01-Ignite-Capitulo-I/01-github-explorer)
 
-</div>
+</p>
 
 <div style='width: 100%; height: 2px; background-color: #6c11b8; margin: 2rem;'></div>
 
