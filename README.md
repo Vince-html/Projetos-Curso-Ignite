@@ -1,4 +1,4 @@
-<div style='display: flex; flex-direction: column; justify-content: center; align-items: center; margin: 0 auto; margin-top: 1rem;'>
+<div display='flex' flex-direction= 'column' justify-content= 'center' align-items= 'center' margin= '0 auto' margin-top= '1rem'>
 
 # Projetos Curso ReactJs Ignite
 
