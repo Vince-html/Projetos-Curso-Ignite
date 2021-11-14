@@ -1,0 +1,10 @@
+{
+  "name": "World Trip",
+  "short_name": "World Trip",
+
+  "background_color": "#ffffff",
+  "description": "World, Feito em NextJs e Graphql",
+  "display": "fullscreen",
+  "start_url": "/",
+  "theme_color": "#ffffff"
+}
