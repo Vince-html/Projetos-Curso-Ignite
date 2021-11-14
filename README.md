@@ -1,12 +1,15 @@
-<div display='flex' flex-direction= 'column' justify-content= 'center' align-items= 'center' margin= '0 auto' margin-top= '1rem'>
+
+<span align='center'>
 
 # Projetos Curso ReactJs Ignite
 
 Pasta com todos os projetos e desafios desenvolvidos durante o curso de React da @RocketSeat 🚀
 
-<p style='width: 100%; height: 2px; background-color: #6c11b8; margin: 1rem auto;'></p>
 
+  
 <p style='margin-top: 2rem;'>
+  
+ 
 
 ## 1️⃣ GitHub explorer
 
@@ -27,7 +30,7 @@ Pasta com todos os projetos e desafios desenvolvidos durante o curso de React da
 
 </div>
 
-<div style='width: 100%; height: 2px; background-color: #6c11b8; margin: 1rem;'></div>
+<div style='width: 100%; height: 2px; background-color: #6c11b8; margin: 1rem;'> </div>
 
 
 <div style='margin: 2rem;'>
@@ -63,5 +66,6 @@ Pasta com todos os projetos e desafios desenvolvidos durante o curso de React da
 <div style='width: 100%; height: 2px; background-color: #6c11b8; margin: 1rem;'></div>
 
 
+</span>
+  
 
-</div>
